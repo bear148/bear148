@@ -1,4 +1,6 @@
-### Hi there 👋
+### bear148
+I currently work on projects, CheeseBot, and BMM.
+I primarily utilize Javascript, Powershell, and Rust
 
 <!--
 **bear148/bear148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
