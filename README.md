@@ -4,6 +4,8 @@ I currently work on projects, CheeseBot, and [BMM](https://github.com/bear148/Be
 ### BMM
 Currently working on a large update that finishes and adds more to the minecraft mod management system. That is why it hasn't received any commits.
 
+### [pbindex](https://bear148.github.io/pbindex/) Premium Bowling Texture Index
+
 <!--
 **bear148/bear148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
