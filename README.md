@@ -1,5 +1,5 @@
 ### bear148
-I currently work on projects, CheeseBot, and [BMM](https://github.com/bear148/Bears-Mod-Manager). I primarily utilize Javascript, Powershell, and Rust.
+I currently work on projects, CheeseBot, and [BMM](https://github.com/bear148/Bears-Mod-Manager). I primarily utilize Javascript, Powershell, and Rust. I used to work almost exclusively in python, but more recently ive been experimenting with different languages and projects
 
 ### BMM
 Currently working on a large update that finishes and adds more to the minecraft mod management system. That is why it hasn't received any commits.
